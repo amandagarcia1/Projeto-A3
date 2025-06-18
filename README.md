@@ -25,9 +25,13 @@ O sistema simula um DETRAN com cadastro de veículos, transferências e geraçã
 ## Equipe
 
 Amanda Garcia   
+
 Bernardo Picetti
+
 Cauã Durante
+
 Jonathan Toledo
+
 Orientadores: Felipe Frosi e Vinicius Cassol
 
 ## Licença
